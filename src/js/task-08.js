@@ -1,4 +1,3 @@
-
 const formForTask = document.querySelector('.login-form');
 
 const getLoginAndPasswordFromForm = (evt) => {
